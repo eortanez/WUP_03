@@ -44,14 +44,7 @@ The median is around 0
 But the values of quartiles and median are very close to each other   
 In the third plot, there are many outliers   
 The distribution of second and third plot is similar but only number of outliers in third plot is more   
-In the second plot, this is the plot of 95% confidence interval of the difference    
-Now look at the first line, it is comparison of Front and back values, the whole confidence interval is less than   
-zero meaning that the front values are less as compared to Back Values .  
-Second line is of back and middle, here again the CI lies below 0 means   
-that the values of the back is larger than middle values   
-The third line is of middle front, this lies partly above the 0 and partly below the zero    
-Meaning that the values of both these seats are equal in CI   
-    
+
 ## Numerical Summarys 
 # Numerical results
 
@@ -67,6 +60,14 @@ summary.aov(model1)
 ```{r}
 plot(TukeyHSD(model1))
 ```
+In the second plot, this is the plot of 95% confidence interval of the difference    
+Now look at the first line, it is comparison of Front and back values, the whole confidence interval is less than   
+zero meaning that the front values are less as compared to Back Values .  
+Second line is of back and middle, here again the CI lies below 0 means   
+that the values of the back is larger than middle values   
+The third line is of middle front, this lies partly above the 0 and partly below the zero    
+Meaning that the values of both these seats are equal in CI   
+
 ## Conclusions
 
 
