@@ -69,5 +69,7 @@ The third line is of middle front, this lies partly above the 0 and partly below
 Meaning that the values of both these seats are equal in CI   
 
 ## Conclusions
-
-
+Based on the charts above the back seat is drinking nearly 10 times the amount of drinks compares  
+to the front seat and approximately 3 times as any drinks than the middle seat   
+Based on the inferential graphs, we can conclude that the middle and the front row have a relationship
+consisting of nearly the same results and te back shares no realtionship with any of the other results . 
